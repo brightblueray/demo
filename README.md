@@ -9,3 +9,7 @@ Adding some crap, in a branch
 I hope I didn't screw up
 
 Adding some crap
+
+Updates in Stage
+
+More Updates in Working directory
